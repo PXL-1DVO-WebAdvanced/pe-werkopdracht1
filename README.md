@@ -1,2 +1,6 @@
-# PermanenteEvaluatie
-GitHub repository voor werkopdracht 1 + 2
+# PE - Werkopdracht 1
+## Student
+Naam: [vul in]
+Nummer: [vul in]
+Email: [vul in]
+
